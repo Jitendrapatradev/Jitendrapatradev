@@ -35,7 +35,6 @@ I'm a passionate **Software Engineer** and **CSE student**, building intelligent
 
 ### 👨‍💻 Developer Profile (JSON Style)
 
-js
 const jitendra = {
     pronouns: "He" | "Him",
     skills: ["JavaScript", "TypeScript", "Python", "Java", "C++"],

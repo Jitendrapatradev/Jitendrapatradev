@@ -14,8 +14,8 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jitendrapatra.com-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jitendrapatra.com)
 [![Email](https://img.shields.io/badge/📧_Email-jitendrapatra.dev@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitendrapatra.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jitendra-patra)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jitendrapatra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitendra-patra-76829535a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JitendraPa99604)
 
 </div>
 

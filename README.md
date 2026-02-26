@@ -35,7 +35,7 @@ I'm a passionate **Software Engineer** and **CSE student**, building intelligent
 
 ### 👨‍💻 Developer Profile (JSON Style)
 
-```js
+js
 const jitendra = {
     pronouns: "He" | "Him",
     skills: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
@@ -135,4 +135,4 @@ Other         1h 10m
 
 
 
-<br/> <img src="https://raw.githubusercontent.com/jitendrapatradev/jitendrapatradev/output/snake.svg"/> </div> ```
+<br/> <img src="https://raw.githubusercontent.com/jitendrapatradev/jitendrapatradev/output/snake.svg"/> </div>

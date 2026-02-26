@@ -34,7 +34,7 @@ I'm a passionate **Software Engineer** and **CSE student**, building intelligent
 </p>
 
 ### 👨‍💻 Developer Profile (JSON Style)
-JS
+```js
 const jitendra = {
     pronouns: "He" | "Him",
     skills: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
@@ -46,7 +46,8 @@ const jitendra = {
         ai: ["OpenAI API", "LangChain", "Whisper", "Voice AI"]
     },
     focus: "Building AI-powered web applications"
-};
+};```
+````
 🔥 Current Projects
 <div align="center">
 Project	Description
